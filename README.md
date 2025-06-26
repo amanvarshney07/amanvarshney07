@@ -38,7 +38,7 @@
 
 - 🔐 Auth App (JWT, Bcrypt, MongoDB)
 - 🌐 AI-Powered Blog Platform (OpenAI API + MERN)
-- 📊 Stock Price Prediction (React + TensorFlow)
+- 📊 Stock Price Prediction (Streamlit + React + TensorFlow)
 - 🏥 Hospital Management System (Spring Boot + Thymeleaf)
 - 🛡 Cyber Threat Detector (DL + Streamlit)
 
