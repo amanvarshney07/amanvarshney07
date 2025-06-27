@@ -37,7 +37,7 @@
   ### 🛠 What I'm Working On
 
 - 🔐 Auth App (JWT, Bcrypt, MongoDB)
-- 🌐 AI-Powered Blog Platform (OpenAI API + MERN)
+- 🌐 AI-Powered Code Reviewer (OpenAI API + MERN)
 - 📊 Stock Price Prediction (Streamlit + React + TensorFlow)
 - 🏥 Hospital Management System (Spring Boot + Thymeleaf)
 - 🛡 Cyber Threat Detector (DL + Streamlit)
